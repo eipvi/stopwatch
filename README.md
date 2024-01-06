@@ -66,4 +66,4 @@ function timer() {
 
 ```
 
-### Deploy: https://eipvi.github.io/stopwatch/
+### Deploy: https://stopwatchtime.vercel.app/
